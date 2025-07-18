@@ -17,4 +17,4 @@ Messages are handled through Firebase Realtime Database and are never shared wit
 ## Storage
 Data is stored temporarily to enable chat functionality. Users can clear messages manually.
 
-If you have questions, contact us at [your_email@example.com].
+If you have questions, contact us at info@blabry.com.
